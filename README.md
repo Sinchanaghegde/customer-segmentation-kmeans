@@ -1,11 +1,11 @@
-Customer Segmentation using K-Means Clustering
-📌 Project Overview
+###Customer Segmentation using K-Means Clustering
+##📌 Project Overview
 
 Customer segmentation is an essential task in marketing and business analytics that involves dividing customers into meaningful groups based on their behaviors, demographics, and purchasing patterns.
 
 This project leverages K-Means Clustering, a popular unsupervised machine learning algorithm, to automatically identify distinct customer groups. By understanding these segments, businesses can tailor marketing strategies, improve customer retention, and enhance overall decision-making.
 
-🚀 Features
+##🚀 Features
 
 Data Preprocessing – Cleaning, transforming, and preparing the dataset for clustering analysis.
 
@@ -17,7 +17,7 @@ Visualization – Scatter plots, Silhouette plots, and cluster visualizations fo
 
 Insights & Interpretation – Analysis of clusters to derive actionable business insights.
 
-🛠️ Tech Stack
+##🛠️ Tech Stack
 
 Language: Python
 
@@ -66,22 +66,22 @@ Silhouette Analysis plot
 
 📑 Usage
 
-Clone the repository:
+#Clone the repository:
 
 git clone https://github.com/yourusername/CUSTOMER-SEGMENTATION-USING-K-MEANS-CLUSTERING.git
 cd CUSTOMER-SEGMENTATION-USING-K-MEANS-CLUSTERING
 
 
-Install dependencies:
+#Install dependencies:
 
 pip install -r requirements.txt
 
 
-Run the Jupyter Notebook or Python script:
+#Run the Jupyter Notebook or Python script:
 
 jupyter notebook notebooks/customer_segmentation.ipynb
 
-🔍 Insights & Applications
+##🔍 Insights & Applications
 
 Identify high-value customers for targeted marketing.
 
