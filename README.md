@@ -1,4 +1,5 @@
 Customer Segmentation using K-Means Clustering
+
 📌 Project Overview
 
 Customer segmentation is an essential task in marketing and business analytics that involves dividing customers into meaningful groups based on their behaviors, demographics, and purchasing patterns.
